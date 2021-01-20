@@ -16,7 +16,7 @@
     <packaging>pom</packaging>
 
     <modules>
-        <module>week1-jvmloader</module>
+        <module>week1</module>
     </modules>
 
     <properties>

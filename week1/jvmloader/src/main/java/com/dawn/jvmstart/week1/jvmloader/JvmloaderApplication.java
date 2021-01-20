@@ -1,4 +1,4 @@
-package com.dawn.jvmstart.jvmloader;
+package com.dawn.jvmstart.week1.jvmloader;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
