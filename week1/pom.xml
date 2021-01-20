@@ -13,7 +13,8 @@
     <description>week1 demo</description>
 
     <modules>
-        <module>jvmloader</module>
+        <module>jvmLoader</module>
+        <module>tomcatDemo</module>
     </modules>
 
 

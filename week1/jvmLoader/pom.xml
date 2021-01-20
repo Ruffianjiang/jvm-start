@@ -9,7 +9,7 @@
     </parent>
     <groupId>com.dawn.jvmstart.week1</groupId>
     <artifactId>jvmloader</artifactId>
-    <description>jvmloader project for Spring Boot</description>
+    <description>jvmLoader project for Spring Boot</description>
 
     <dependencies>
         <dependency>
