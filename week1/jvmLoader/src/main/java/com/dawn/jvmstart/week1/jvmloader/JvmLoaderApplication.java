@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class JvmloaderApplication {
+public class JvmLoaderApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(JvmloaderApplication.class, args);
+        SpringApplication.run(JvmLoaderApplication.class, args);
     }
 
 }
